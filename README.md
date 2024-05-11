@@ -3,7 +3,6 @@
 ## Introduction
 
 This project is a URL Shortener application that allows users to enter a long URL, which is then shortened to a much shorter URL that can be easily shared. The shortened URL is redirected to the original long URL.
-<br>
 
 ## Table of Contents
 
@@ -12,14 +11,11 @@ This project is a URL Shortener application that allows users to enter a long UR
 - [**Application Setup**](#application-setup)
 - [**Code Style**](#code-style)
 - [**Usage**](#usage)
-  <br>
 
 ## Features
 
 1. URL shortening: Users can enter a long URL and get a shortened URL that can be easily shared.
 2. Redirects: The shortened URL redirects to the original long URL.
-
-<br>
 
 ## Technologies
 
@@ -30,12 +26,9 @@ The project utilizes the following technologies:
   - NodeJS: A JavaScript runtime for building server-side applications.
   - ExpressJS: A lightweight framework for building web applications.
   - MongoDB: A document-oriented NoSQL database.
-    <br>
 
 - Frontend:
   - Bootstrap: Open source framework for creating responsive website.
-
-<br>
 
 ## Application Setup
 
@@ -81,13 +74,9 @@ To setup the application locally, follow these steps:
 
 9. Open http://localhost:3000 in your browser to see the application.
 
-<br>
-
 ## Code Style
 
 - Please make sure to follow the existing code style and formatting conventions when making contributions to the project.
-
-<br>
 
 ## Usage
 
