@@ -66,13 +66,15 @@ To setup the application locally, follow these steps:
       npm install
    ```
 
-8. Start the application using command:
+8. Create a .env file at the root directory and add URI to MongoDB
+
+9. Start the application using command:
 
    ```bash
-      npm start
+      npm run dev
    ```
 
-9. Open http://localhost:3000 in your browser to see the application.
+10. Open http://localhost:3000 in your browser to see the application.
 
 ## Code Style
 
